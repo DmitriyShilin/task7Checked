@@ -5,9 +5,9 @@ import examplecheckedexception.exception.DivideByZeroException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-public class ExampleCheckedException {
+public class MainApp {
     
-    private static Logger logger = Logger.getLogger(ExampleCheckedException.class.getName()); 
+    private static Logger logger = Logger.getLogger(MainApp.class.getName()); 
 
     public static void main(String[] args) {
         
